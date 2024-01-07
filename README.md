@@ -20,9 +20,11 @@ Links:
 [Amazon](https://amzn.eu/d/5plquJM)
 [AliExpress](https://it.aliexpress.com/item/1005001827673469.htm)
 
-### DC-DC Converter (optional)
-I used a DC-DC converter to power the esp32 with the 12V intercom system, choose accordingly to your situation.
+### AC-DC Converter power supply
 Links:
-[Amazon](https://amzn.eu/d/eL9kzI3)
-[AliExpress](https://it.aliexpress.com/item/1005005571899204.html)
+[Amazon]([https://amzn.eu/d/eL9kzI3](https://www.amazon.it/dp/B07JN8PMBR?psc=1&ref=ppx_yo2ov_dt_b_product_details)https://www.amazon.it/dp/B07JN8PMBR?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+
+### Photocouplers / Optocouplers
+Links:
+[Amazon](https://www.amazon.it/dp/B07X46SYQT?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
