@@ -8,23 +8,6 @@ When pressed, the lock mechanism relocks itself after 1 second cause it is thoug
 ![IMG_5967](https://github.com/giuliolibrando/HomeSpanDoorLock/assets/76574961/0837dd31-a3b6-4b35-be05-4c47e3286b6f)
 
 
-# Hardware
-
-### ESP32 
-Links:
-[Amazon](https://amzn.eu/d/anyuoFs)
-[AliExpress](https://it.aliexpress.com/item/1005005970816555.htm)
-
-### Relay
-Links:
-[Amazon](https://amzn.eu/d/5plquJM)
-[AliExpress](https://it.aliexpress.com/item/1005001827673469.htm)
-
-### AC-DC Converter power supply
-Links:
-[Amazon]([https://amzn.eu/d/eL9kzI3](https://www.amazon.it/dp/B07JN8PMBR?psc=1&ref=ppx_yo2ov_dt_b_product_details)https://www.amazon.it/dp/B07JN8PMBR?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-
-### Photocouplers / Optocouplers
-Links:
-[Amazon](https://www.amazon.it/dp/B07X46SYQT?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+# Schematics
+![scheme%20doorlock.png](https://raw.githubusercontent.com/giuliolibrando/HomeSpanDoorLock/main/scheme%20doorlock.png)
 
